@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kholoud Diaa Mohammed Elbaz</h1>
 <h3 align="center">
-Full-Stack .NET Developer (Intern/Junior) | Computer Science Student 🚀
+Full-Stack .NET Developer Junior| Computer Science Student 🚀
 </h3>
 
 ---
