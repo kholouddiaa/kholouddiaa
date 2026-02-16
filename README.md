@@ -48,15 +48,57 @@ Currently seeking a **Backend / Full-Stack Internship** to apply my skills in re
 
 ## 🚀 Featured Projects
 
-### 🎟️ Simple Event Booking System  
-**Full MVC Web Application**
+---
 
-- Authentication (Register/Login)
-- Full CRUD for Events
-- Booking Workflow
-- MyBookings Page
-- ViewModel with UserHasBooked logic
-- SQL Server + Entity Framework
+### 🎟 MVC Event Booking System  
+**ASP.NET Core MVC | Entity Framework | SQL Server**
+
+A production-ready event booking and management system built with clean MVC architecture.
+
+**Key Features:**
+- Authentication System (Register / Login)
+- Full Event CRUD Operations
+- Booking Workflow (User ↔ Event)
+- MyBookings Dashboard
+- ViewModel Implementation
+- Entity Framework Core (Code First + Migrations)
+- SQL Server Relational Database
+
+**Tech Stack:**
+- ASP.NET Core (.NET 8)
+- Entity Framework Core
+- SQL Server
+- Razor Views
+- Bootstrap
+
+🔗 Repo:  
+https://github.com/kholouddiaa/MVC-Event
+
+---
+
+### 💰 Wealth Manager App  
+**JavaScript | DOM Manipulation | Fetch API**
+
+A dynamic web app that manages and manipulates users' wealth using modern JavaScript array methods.
+
+**Features:**
+- Add Random User (API Fetch)
+- Double Money (map)
+- Show Only Millionaires (filter)
+- Sort by Richest (sort)
+- Calculate Total Wealth
+- Dynamic UI Updates
+
+**Concepts Used:**
+- map()
+- filter()
+- sort()
+- reduce()
+- Async/Await
+- DOM Manipulation
+
+🔗 Repo:  
+https://github.com/kholouddiaa/wealth-manager-js
 
 ---
 
@@ -68,7 +110,7 @@ Currently seeking a **Backend / Full-Stack Internship** to apply my skills in re
 - Dynamic Result Display
 - JavaScript DOM Manipulation
 
-Repo:  
+🔗 Repo:  
 https://github.com/kholouddiaa/Area-Circle-Calculator-usingJS
 
 ---
